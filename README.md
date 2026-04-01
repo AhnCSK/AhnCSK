@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center">🌐 Frontend & Mobile</h3>
+<h3 align="center">🌐 Client</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React_Native-0.81-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3 align="center">⚙️ Backend</h3>
+<h3 align="center">⚙️ Server</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">🗄️ Database & Messaging</h3>
+<h3 align="center">🗄️ Database</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
