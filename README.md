@@ -5,14 +5,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/CommandCenter">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnCSK&layout=compact&theme=transparent" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/CommandCenter">
-    <img src="https://github-readme-stats.vercel.app/api?username=CommandCenter&show_icons=true&theme=transparent" alt="AhnCSK's GitHub stats" />
-  </a>
-</div>
 
 <br>
 
