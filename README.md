@@ -28,7 +28,7 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-<h4 align="center">🌐 Client</h4>
+<h4 align="center">🌐 Client & Frontend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React_Native-0.81-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
@@ -44,7 +44,7 @@
 
 <br>
 
-<h4 align="center">⚙️ Server & Language</h4>
+<h4 align="center">⚙️ Server & Backend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
@@ -86,7 +86,7 @@
 
 <br>
 
-<h4 align="center">🛠 Infra & DevOps</h4>
+<h4 align="center">🛠 Infra & Operation</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
@@ -137,3 +137,7 @@
     <img src="https://img.shields.io/badge/ahncsk0709@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
+📫 Contact
+📧 Email: ahncsk0709@gmail.com
+📝 Blog: [https://velog.io/@AhnCSK](https://ahncsk-christian-ubiquitous-architect.blogspot.com/)
+💻 GitHub: https://github.com/AhnCSK
