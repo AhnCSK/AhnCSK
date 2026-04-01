@@ -139,5 +139,5 @@
 </div>
 📫 Contact
 📧 Email: ahncsk0709@gmail.com
-📝 Blog: [https://velog.io/@AhnCSK](https://ahncsk-christian-ubiquitous-architect.blogspot.com/)
+📝 Blog: [https://ahncsk-christian-ubiquitous-architect.blogspot.com/]
 💻 GitHub: https://github.com/AhnCSK
