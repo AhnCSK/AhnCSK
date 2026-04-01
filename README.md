@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm AhnCSK (CommandCenter)</h1>
-  <h3>Full-Stack Developer | AI & IoT Enthusiast</h3>
+  <h1>Hi 👋, I'm AhnCSK </h1>
+  <h3>Full-Stack Engineer</h3>
 </div>
 
 <br>
