@@ -1,26 +1,15 @@
 <div align="center">
-  <h1>Hi 👋, I'm AhnCSK </h1>
+  <h1>Hi , I'm AhnCSK </h1>
   <h3>Full-Stack Engineer</h3>
 </div>
 
 <br>
 
-### 🚀 Quick Intro
-- 🔭 I’m currently working on **Project Nova** (Smart Apartment Management System) & AI Animation project **Sakad**.
-- 🌱 I’m currently learning more about **RAG pipelines**, **Gemini**, and vector databases like **Pinecone**.
-- 💡 I love exploring Layered Architecture and real-time messaging with MQTT!
-- 📫 How to reach me: [ahncsk0709@gmail.com](mailto:ahncsk0709@gmail.com)
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/AhnCSK">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnCSK&layout=compact&theme=transparent" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/AhnCSK">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhnCSK&show_icons=true&theme=transparent" alt="AhnCSK's GitHub stats" />
-  </a>
-</div>
+###  Quick Intro
+-  I’m currently working on **Project Nova** (Smart Apartment Management System) & AI Animation project **Sakad**.
+-  I’m currently learning more about **RAG pipelines**, **Gemini**, and vector databases like **Pinecone**.
+-  I love exploring Layered Architecture and real-time messaging with MQTT!
+-  How to reach me: [ahncsk0709@gmail.com](mailto:ahncsk0709@gmail.com)
 
 <br>
 
