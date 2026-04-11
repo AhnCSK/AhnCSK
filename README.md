@@ -82,13 +82,13 @@
 <h4 align="center">🛠 Infra & Operation</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp;
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />&nbsp;
 </div>
 
@@ -103,12 +103,13 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp;
 </div>
 
 <br>
+
+---
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -125,14 +126,13 @@
 
 <h3 align="center">📫 Contact & Blog 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@AhnCSK">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
+  <a href="https://ahncsk-christian-ubiquitous-architect.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />&nbsp;
   </a>
   <a href="mailto:ahncsk0709@gmail.com">
-    <img src="https://img.shields.io/badge/ahncsk0709@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
+  </a>
+  <a href="https://github.com/AhnCSK">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
   </a>
 </div>
-📫 Contact
-📧 Email: ahncsk0709@gmail.com
-📝 Blog: [https://ahncsk-christian-ubiquitous-architect.blogspot.com/]
-💻 GitHub: https://github.com/AhnCSK
