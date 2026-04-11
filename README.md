@@ -53,8 +53,6 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/eGovFrame-02569B?style=for-the-badge" />&nbsp;
 </div>
 
 <br>
@@ -77,8 +75,6 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Whisper_STT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
 </div>
 
 <br>
