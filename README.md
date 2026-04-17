@@ -6,9 +6,7 @@
 <br>
 
 ###  Quick Intro
--  I’m currently working on **Project Nova** (Smart Apartment Management System) & AI Animation project **Sakad**.
--  I’m currently learning more about **RAG pipelines**, **Gemini**, and vector databases like **Pinecone**.
--  I love exploring Layered Architecture and real-time messaging with MQTT!
+
 -  How to reach me: [ahncsk0709@gmail.com](mailto:ahncsk0709@gmail.com)
 
 <br>
