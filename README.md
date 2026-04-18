@@ -5,8 +5,6 @@
 
 <br>
 
-###  Quick Intro
-
 -  How to reach me: [ahncsk0709@gmail.com](mailto:ahncsk0709@gmail.com)
 
 <br>
