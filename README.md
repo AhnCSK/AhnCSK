@@ -5,7 +5,7 @@
 
 <br>
 
--  How to reach me: [ahncsk0709@gmail.com](mailto:ahncsk0709@gmail.com)
+-  How to reach me: [ahncsk00@naver.com](mailto:ahncsk00@naver.com)
 
 <br>
 
@@ -110,6 +110,6 @@
 <h3 align="center">📫 Contact & Blog 📫</h3>
 <div align="center">
   <a href="https://ahncsk-christian-ubiquitous-architect.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;
-  <a href="mailto:ahncsk0709@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:ahncsk00@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/AhnCSK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
