@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm AhnCSK </h1>
-  <h3>Full-Stack Engineer</h3>
+  <h1>Hi, I'm Full-Stack Engineer ChangSeok Ahn </h1>
 </div>
 
 <br>
