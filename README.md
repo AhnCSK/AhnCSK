@@ -1,19 +1,15 @@
 <div align="center">
-  <h1>👋 Hi, I'm Full-Stack Engineer ChangSeok Ahn </h1>
-  <h2>안녕하세요, 풀스택 개발자 안창석입니다 👨‍💻</h2>
-</div>
 
-<br>
-
-<div align="center">
+  <h2>안녕하세요, 풀스택 개발자 안창석입니다 </h1>
+  <h2>Hi, I'm Full-Stack Engineer ChangSeok Ahn </h1>
   <p><strong>Contact / 연락처:</strong> <a href="mailto:ahncsk00@naver.com">ahncsk00@naver.com</a></p>
+
 </div>
+
 
 <br>
 
----
-
-<h3 align="center">✨ Tech Stack / 기술 스택 ✨</h3>
+<br>
 
 <h4 align="center">🌐 Client, Frontend & Mobile / 클라이언트, 프론트엔드 및 모바일</h4>
 <div align="center">
@@ -98,7 +94,6 @@
 
 <br>
 
----
 
 <h3 align="center">📚 Studying / 학습 중인 기술 📚</h3>
 <div align="center">
@@ -111,7 +106,6 @@
 
 <br>
 
----
 
 <h3 align="center">📫 Contact & Blog / 연락처 및 블로그 📫</h3>
 <div align="center">
