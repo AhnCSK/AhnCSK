@@ -1,26 +1,21 @@
 <div align="center">
-  <!-- 언어 전환 뱃지 (README-ko.md 파일이 같은 디렉토리에 있어야 작동합니다) -->
-  <a href="./README-ko.md"><img src="https://img.shields.io/badge/🇰🇷_한국어-F3F3F3?style=for-the-badge&logo=googletranslate&logoColor=black" alt="Korean" /></a>
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" /></a>
+  <h1>👋 Hi, I'm Full-Stack Engineer ChangSeok Ahn </h1>
+  <h2>안녕하세요, 풀스택 개발자 안창석입니다 👨‍💻</h2>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>Hi, I'm Full-Stack Engineer ChangSeok Ahn </h1>
+  <p><strong>Contact / 연락처:</strong> <a href="mailto:ahncsk00@naver.com">ahncsk00@naver.com</a></p>
 </div>
-
-<br>
-
--  How to reach me: [ahncsk00@naver.com](mailto:ahncsk00@naver.com)
 
 <br>
 
 ---
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack / 기술 스택 ✨</h3>
 
-<h4 align="center">🌐 Client, Frontend & Mobile</h4>
+<h4 align="center">🌐 Client, Frontend & Mobile / 클라이언트, 프론트엔드 및 모바일</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
@@ -32,12 +27,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 </div>
 
 <br>
 
-<h4 align="center">⚙️ Server & Backend</h4>
+<h4 align="center">⚙️ Server & Backend / 서버 및 백엔드</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
@@ -50,7 +47,7 @@
 
 <br>
 
-<h4 align="center">🗄️ Database & Message Broker</h4>
+<h4 align="center">🗄️ Database & Message Broker / 데이터베이스 및 메시지 브로커</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
@@ -60,7 +57,7 @@
 
 <br>
 
-<h4 align="center">🤖 AI & Data</h4>
+<h4 align="center">🤖 AI & Data / 인공지능 및 데이터</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
@@ -72,7 +69,7 @@
 
 <br>
 
-<h4 align="center">🛠 Infra & Operation</h4>
+<h4 align="center">🛠 Infra & Operation / 인프라 및 운영</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
@@ -87,7 +84,7 @@
 
 <br>
 
-<h4 align="center">💻 Tools & IDEs</h4>
+<h4 align="center">💻 Tools & IDEs / 도구 및 IDE</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
@@ -103,7 +100,7 @@
 
 ---
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📚 Studying / 학습 중인 기술 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp;
@@ -116,7 +113,7 @@
 
 ---
 
-<h3 align="center">📫 Contact & Blog 📫</h3>
+<h3 align="center">📫 Contact & Blog / 연락처 및 블로그 📫</h3>
 <div align="center">
   <a href="https://ahncsk-christian-ubiquitous-architect.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;
   <a href="mailto:ahncsk00@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>&nbsp;
